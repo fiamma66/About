@@ -41,7 +41,7 @@
 
 <br>
 
-[<img style="float:left" src="pic/linkedin.png" width = 20%/>](https://www.linkedin.com/in/fiamma-hsu-762650176/)
+[<img style="float:left" src="pic/linkedin.png" width = 20%/>](https://www.linkedin.com/in/li-yu-hsu-762650176/)
 
 <br>
 
